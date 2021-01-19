@@ -1,0 +1,35 @@
+{
+  "name": "vue-i18n-ally",
+  "displayName": "Vue i18n Ally (DEPREACTED)",
+  "description": "Renamed to \"lokalise.i18n-ally\"",
+  "version": "0.36.9",
+  "publisher": "antfu",
+  "engines": {
+    "vscode": "^1.32.0"
+  },
+  "activationEvents": [
+    "*"
+  ],
+  "categories": [
+    "Other"
+  ],
+  "keywords": [
+    "vue",
+    "vue-i18n",
+    "translate",
+    "i18n",
+    "i18next"
+  ],
+  "icon": "logo.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lokalise/i18n-ally"
+  },
+  "homepage": "https://github.com/lokalise/i18n-ally",
+  "bugs": "https://github.com/lokalise/i18n-ally/issues",
+  "main": "./extension.js",
+  "scripts": {},
+  "devDependencies": {
+    "@types/vscode": "^1.32.0"
+  }
+}
